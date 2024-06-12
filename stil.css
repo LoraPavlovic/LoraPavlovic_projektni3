@@ -62,7 +62,7 @@ li
     font-size: 14px;
 }
 .home h1{
-    font-family: "LoraPavlovic";
+    font-family: "LoraPavlovic", sans-serif;
 }
 .blok_home{
     background-color: rgba(179, 200, 207, 0.6); 
